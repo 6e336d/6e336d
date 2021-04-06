@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @6e336d
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning Pentesting and Ethical Hacking
+- 📫 You can reach me at get6e336d@protonmail.com. My pgp public key will also be in this repo
